@@ -53,3 +53,8 @@ htmlcov/
 
 # Logs
 *.log
+
+# Local Interview Preparation Documents (Kept locally, not pushed to remote)
+INTERVIEW_PREP.md
+INTERVIEW_RISKS.md
+INTERVIEW_*.md
